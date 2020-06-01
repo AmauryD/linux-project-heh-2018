@@ -1,0 +1,9 @@
+local_root=${USER_ROOT_DIR}
+anon_world_readable_only=NO
+
+write_enable=YES
+anon_upload_enable=YES
+
+anon_mkdir_write_enable=YES
+
+anon_other_write_enable=YES

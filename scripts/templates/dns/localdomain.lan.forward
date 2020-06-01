@@ -1,0 +1,12 @@
+$TTL 86400
+@   IN  SOA     mmt.lan. root.mmt.lan. (
+        2011071001  ;Serial
+        3600        ;Refresh
+        1800        ;Retry
+        604800      ;Expire
+        86400       ;Minimum TTL
+)
+@           NS          mmt.lan.
+mmt.lan.    A   192.168.2.128
+
+
